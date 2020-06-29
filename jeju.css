@@ -1,0 +1,382 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	overflow: auto;
+}
+
+.jeju{
+	width: 1042px;
+	margin-top: 57px;
+	margin-left: 398px;
+
+}
+.jeju .back{
+	width: 1480px;
+	height: 30px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	margin-top: -20px;
+}
+.jeju .back img{
+	width: 27px;
+	height: 27px;
+}
+.jeju .header{
+	width: 662px;
+	height: 150px;
+	left: 449px;
+	top: 57px;
+}
+
+.header img{
+	width: 71px;
+	height: 71px;
+	box-sizing: border-box;
+	margin-left: 100px;
+	margin-right: 20px;
+	margin-bottom: 55px;
+
+	float: left;
+}
+
+.header .title{
+	margin-top: -10px;
+	width: 430px;
+	height: 42px;
+
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 42px;
+
+	color: #383838;
+
+}
+
+.header .mean{
+	margin-top: -30px;
+	
+	width: 700px;
+	height: 23px;
+
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 23px;
+
+	color: #5F5F5F;
+
+}
+.jeju .suv_header{
+	width: 100px;
+	height: 184px;
+	margin-top: -180px;
+	float: left;
+}
+
+
+.jeju .suv_header .plus{
+	margin-left: 900px;
+	margin-bottom: -10px;
+	width: 90px;
+	height: 27px;
+	text-align: left;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: #4D4D4D;
+}
+
+.jeju .third_header{
+	width: 300px;
+	height: 184px;
+	margin-top: -180px;
+}
+
+.jeju .third_header .plus_content{
+	width: 250px;
+	height: 27px;
+	margin-left: 1000px;
+	margin-bottom: -10px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 18px;
+	line-height: 27px;
+	color: #4D4D4D;
+}
+
+.jeju .page_1 {
+	margin-top: -40px;
+	width: 1480px;
+	height: 977px;
+	background-color: #F7EBD5;
+}
+
+.jeju .page_1 img{
+	width: 1302px;
+	height: 977px;	
+}
+
+
+.jeju .page_2{
+	width: 1279px;
+	height: 978px;
+	margin-left: 200px;
+
+}
+
+.jeju .page_2 .first_sent{
+	margin-top: 50px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 40px;
+	line-height: 74px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.jeju .page_2 .second_sent{
+	margin-top: -40px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	line-height: 74px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.page_2 .problem .point{
+	margin-top: 50px;
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #F97C00;
+	
+}
+
+.page_2 .problem .sent{
+	margin-left: 150px;
+	margin-top: -60px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 23px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.page_2 .problem .sent_sent{
+	margin-left: 150px;
+	margin-top: -40px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.jeju .page_3{
+	margin-top: -680px;
+	width: 1279px;
+	height: 978px;
+	margin-left: 200px;
+}
+
+.page_3 .challenge .point{
+	margin-top: 50px;
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #F97C00;
+	
+}
+
+.page_3 .challenge .sent{
+	margin-left: 150px;
+	margin-top: -60px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 23px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.page_3 .challenge .sent_sent{
+	margin-left: 150px;
+	margin-top: -40px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.page_3 .challenge img{
+	width: 1003px;
+	height: 413px;
+	margin-left: -50px;
+}
+
+.jeju .image_2{
+	width: 1279px;
+	height: 1200px;
+	background-color: #F7EBD5;
+	padding-left: 200px;
+	margin-top: -540px;
+}
+
+.jeju .image_2 .first_sent{
+	padding-top: 50px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 40px;
+	line-height: 74px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.jeju .image_2 .second_sent{
+	margin-top: -40px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	line-height: 74px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.image_2 .observation .point{
+	margin-left: -40px;
+	margin-top: 50px;
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #F97C00;
+}
+
+.image_2 .observation .sent{
+	margin-left: 150px;
+	margin-top: -60px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 23px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.image_2 .observation img{
+	width: 1003px;
+	height: 285px;
+	margin-left: -50px;
+	margin-top: -30px;
+}
+.image_2 .solution .point{
+
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #F97C00;
+
+}
+
+.image_2 .solution img{
+	margin-top: -100px;
+	width: 1003px;
+	height: 466px;
+	margin-left: -50px;
+
+}
+.image_3{
+	width: 1480px;
+	height: 1350px;
+	background-color: #F7EBD5;
+}
+.image_3 img{
+	margin-bottom: -5px;
+
+	width: 1300px;
+	height: 732px;
+}
+
+.image_3 img:first-child{
+	margin-top: -100px;
+}
+
+
+/* footer */
+.footer{
+	position: relative;
+	left: 398px;
+	top:20px;
+	margin-bottom: 20px;
+	width: 1400px;
+	height: 50px;
+	background-color: #FFFFFF;
+	z-index: -1;
+}
+
+.footer p{
+	text-align: center;
+	font-family: Noto Sans KR;
+	  font-style: normal;
+	  font-weight: 100;
+	  font-size: 14px;
+	  line-height: 20px;
+	  padding-top: 12px;
+	  color: #A9A9A9;
+}

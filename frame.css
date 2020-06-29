@@ -1,0 +1,582 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	overflow: auto;
+}
+
+.frame{
+	width: 1042px;
+	margin-top: 57px;
+	margin-left: 400px;
+
+}
+.frame .back{
+	width: 1480px;
+	height: 30px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	margin-top: -20px;
+}
+.frame .back img{
+	width: 27px;
+	height: 27px;
+}
+.frame .header{
+	width: 662px;
+	height: 150px;
+	margin-left: 50px;
+}
+
+
+.header .title{
+	margin-top: -10px;
+	width: 430px;
+	height: 42px;
+
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 42px;
+
+	color: #383838;
+
+}
+
+.header .mean{
+	margin-top: -30px;
+	
+	width: 700px;
+	height: 23px;
+
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 23px;
+
+	color: #5F5F5F;
+
+}
+.frame .suv_header{
+	width: 100px;
+	height: 184px;
+	margin-top: -180px;
+	float: left;
+}
+
+
+.frame .suv_header .plus{
+	margin-left: 900px;
+	margin-bottom: -10px;
+	width: 90px;
+	height: 27px;
+	text-align: left;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: #4D4D4D;
+}
+
+.frame .third_header{
+	width: 300px;
+	height: 184px;
+	margin-top: -180px;
+}
+
+.frame .third_header .plus_content{
+	width: 250px;
+	height: 27px;
+	margin-left: 1000px;
+	margin-bottom: -10px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 18px;
+	line-height: 27px;
+	color: #4D4D4D;
+}
+
+
+
+.frame .page_1 img{
+width: 1300px;
+height: 813px;
+}
+
+
+.frame .page_2{
+	width: 1279px;
+	height: 300px;
+	margin-left: 100px;
+
+}
+
+.frame .page_2 .first_sent{
+	margin-top: 50px;
+	width: 1000px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 36px;
+	line-height: 74px;
+	letter-spacing: -0.05em;
+	color: #000000;
+}
+
+.frame .page_2 .second_sent{
+	margin-top: -40px;
+	width: 1300px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 74px;
+	letter-spacing: -0.05em;
+	color: #000000;
+}
+
+.page_2 .problem .point{
+	margin-top: 50px;
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+}
+
+.page_2 .problem .sent{
+	margin-left: 150px;
+	margin-top: -60px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 23px;
+	line-height: 30px;
+	color: #000000;
+}
+
+.page_2 .problem .sent_sent{
+	margin-left: 150px;
+	margin-top: -40px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+	color: #000000;
+}
+
+
+.frame .page_3{
+
+	width: 1279px;
+	height: 978px;
+	margin-left: 100px;
+
+}
+
+.page_3 .challenge .point{
+
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+	
+}
+
+.page_3 .challenge .sent{
+	margin-left: 150px;
+	margin-top: -60px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 23px;
+	line-height: 30px;
+	color: #000000;
+}
+
+.page_3 .challenge .sent_sent{
+	margin-left: 150px;
+	margin-top: -40px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+	color: #000000;
+
+}
+
+
+.frame .image_2{
+	width: 1279px;
+	height: 2200px;
+	background-color: #F7EBF4;
+	padding-left: 100px;
+	margin-top: -800px;
+}
+
+.frame .image_2 .first_sent{
+	padding-top: 50px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 40px;
+	line-height: 74px;
+	letter-spacing:-0.03em;
+	color: #000000;
+}
+
+.frame .image_2 .second_sent{
+	margin-top: -40px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	line-height: 74px;
+	letter-spacing:-0.03em;
+	color: #000000;
+}
+
+.image_2 .research .point{
+	margin-top: 50px;
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+}
+
+.image_2 .research .sent{
+	margin-left: 150px;
+	margin-top: -60px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 23px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #000000;
+}
+
+.image_2 .research img{
+	width: 845px;
+	height: 274px;
+	margin-left: 80px;
+	margin-top: -30px;
+
+}
+.image_2 .result .point{
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+}
+
+.image_2 .result img{
+	margin-top: -100px;
+	width: 844px;
+	height: 392px;
+	margin-left: 80px;
+
+}
+
+.image_2 .solution .point{
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+	margin-top: -20px;
+}
+
+.image_2 .solution img{
+	margin-top: -100px;
+	width: 844px;
+	height: 392px;
+	margin-left: 80px;
+	
+}
+.image_2 .content .point{
+	width: 150px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+	margin-bottom: 50px;
+}
+
+.image_2 .content .sent{
+	margin-left: 50px;
+	margin-top: -20px;
+	width: 80px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #3A3A3A;
+}
+
+.image_2 .content .sent_sent{
+	margin-top: -83px;
+	margin-left: 150px;
+	width: 878px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+	color: #3A3A3A;
+}
+
+
+.image_2 .content_2 .point{
+	width: 160px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+	margin-bottom: 50px;
+}
+
+.image_2 .content_2 .sent{
+	margin-left: 50px;
+	margin-top: -20px;
+	width: 1000px;
+	height: 50px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #3A3A3A;
+}
+
+.image_2 .content_3 .point{
+	width: 400px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.image_2 .content_3 .sent{
+	margin-left: 50px;
+	margin-top: -20px;
+	width: 1000px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #3A3A3A;
+	text-align: justify;
+}
+.image_3{
+	width: 1279px;
+	height: 2700px;
+	background-color: #FFFFFF;
+	padding-left: 100px;
+	margin-top: 50px;
+
+}
+.image_3 .sketch .point{
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+}
+
+.image_3 .sketch img{
+	width: 1074px;
+height: 620px;
+	
+}
+
+.image_3 .mockup .point{
+	width: 122px;
+	height: 41px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 41px;
+	letter-spacing: 0.02em;
+	color: #DD7AA7;
+}
+
+.image_3 .mockup .mockup_1{
+	margin-top: -70px;
+	margin-left: -200px;
+	width: 1419px;
+height: 818px;
+margin-bottom: -50px;
+}
+
+.image_3 .mockup .sent{
+	margin-left: 460px;
+	margin-top: -50px;
+	width: 150px;
+	height: 66px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 16px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color:#555555;;
+}
+
+.image_3 .mockup .sent_2{
+	width: 150px;
+	height: 30px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 16px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #555555;
+	margin-left: 255px;
+	margin-top: -15px;
+}
+
+.image_3 .mockup .sent_sent{
+	width: 150px;
+	height: 30px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 16px;
+	line-height: 30px;
+	letter-spacing: 0.02em;
+	color: #555555;;
+	margin-left: 680px;
+	margin-top: -46px;
+}
+
+.image_3 .mockup .mockup_2{
+	margin-left: 50px;
+width: 924px;
+height: 411px;
+}
+
+
+.image_3 .mockup .mockup_3{
+	margin-left: 50px;
+	margin-top: -30px;
+width: 924px;
+height: 411px;
+}
+
+
+.image_3 .file{
+margin-top: 200px;
+		border-style: 1px gray;
+		margin-left: 420px;
+}
+.image_3 .file a{
+	width: 300px;
+	height: 28px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 14px;
+
+	display: inline-block;
+
+	cursor: pointer;
+	text-decoration: none;
+
+	padding: 14px 28px;
+	color: #DD7AA7;
+	border: 2px solid #DD7AA7;
+}
+/* footer */
+.footer{
+	position: relative;
+	left: 398px;
+	top:100px;
+	margin-bottom: 20px;
+	width: 1400px;
+	height: 50px;
+	background-color: #FFFFFF;
+	z-index: -1;
+}
+
+.footer p{
+	text-align: center;
+	font-family: Noto Sans KR;
+	  font-style: normal;
+	  font-weight: 100;
+	  font-size: 14px;
+	  line-height: 20px;
+	  padding-top: 12px;
+	  color: #A9A9A9;
+}

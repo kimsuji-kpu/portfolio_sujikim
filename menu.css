@@ -1,0 +1,191 @@
+
+.menubar {
+	
+  position:fixed;
+	width: 398px; 
+	height:1300px; 
+	left: 0px;
+	top: 0px;
+	background: #FFFFFF; 
+	box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.19);
+
+}
+
+.menubar .name{
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 30px;
+	color: #2F2F2F;
+	width: 120px;
+	height: 30px;
+	margin-left: 49px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.menubar .intro{
+	margin-left: 49px;
+	margin-top: 30px;
+	width: 291px;
+	height: 46px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 15px;
+	line-height: 23px;
+	color: #5E5E5E;
+}
+
+.menubar .contact{
+	margin-left: 300px;
+	width: 66px;
+	height: 23px;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 18px;
+	line-height: 23px;
+	text-decoration: underline;
+	color: #5D5D5D;
+}
+
+
+
+.category .top_title{
+	margin-top: 30px;
+	position: relative;
+	width: 349px;
+	height: 33px;
+	left: 0px;
+	background: #9B9B9B;
+
+}
+
+
+.category .top_title{
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: #FFFFFF;
+  display:block;
+  padding-left:49px;
+  padding-top: 5px;
+
+
+}
+
+.category li{
+	list-style-type: none;
+
+}
+
+.category a{
+	text-decoration: none;
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 20px;
+	color: #555555;
+	width: 398px;
+	height: 61px;
+}
+
+.category .bottom_title{
+	padding-left : 49px;
+	width: 398px;
+	height: 61px;
+}
+
+.category .type{
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 14px;
+  margin-left: 49px;
+  margin-top: 10px;
+  color: #A9A9A9;
+}
+
+.category a:focus:active{
+	font-family: Noto Sans KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 25px;
+/* identical to box height */
+
+
+color: #555555;
+}
+
+.category a:focus:hover{
+	font-size: 21px;
+}
+
+.main .profile{
+	margin-left: 400px;
+}
+.main .profile img{
+	position: relative;
+	width: 298px;
+height: 417px;
+left: 780px;
+top: 100px;
+}
+
+.main .profile .name{
+	position: absolute;
+width: 237px;
+height: 53px;
+left: 1245px;
+top: 528px;
+font-family: Noto Sans KR;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 53px;
+letter-spacing: -0.08em;
+text-align: right;
+color: #383838;
+
+}
+
+.main .profile .school{
+
+width: 320px;
+height: 54px;
+margin-top: 200px;
+margin-left: 760px;
+font-family: Noto Sans KR;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 27px;
+text-align: right;
+
+color: #5F5F5F;
+
+}
+
+.main .profile .contact{
+	width: 363px;
+height: 27px;
+margin-top: 20px;
+margin-left: 715px;
+font-family: Noto Sans KR;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: right;
+
+color: #5F5F5F;
+}
